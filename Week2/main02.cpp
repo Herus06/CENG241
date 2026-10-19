@@ -13,5 +13,8 @@ namespace ScopeB {
 }
 
 int main() {
-    //print();
+    //print(); does not work because it can just use with global namespace(STD).
+
+    ScopeB::print();
+    ScopeA::print();
 }

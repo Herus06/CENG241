@@ -15,5 +15,5 @@ namespace ScopeB {
 using namespace ScopeB;
 
 int main() {
-    print();
+    print(); // this will work because we used using namespace ScopeB;
 }
