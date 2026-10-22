@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/sadri/Desktop/ceng241/git forked files/CENG241/Week2",
-      "program": "c:/Users/sadri/Desktop/ceng241/git forked files/CENG241/Week2/build/Debug/outDebug",
+      "cwd": "c:/Users/sadri/Desktop/ceng241/git forked files/CENG241/Week4",
+      "program": "c:/Users/sadri/Desktop/ceng241/git forked files/CENG241/Week4/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
