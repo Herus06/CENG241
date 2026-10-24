@@ -6,7 +6,7 @@ class FillArray {
     int arr[5];
 
     public:
-    FillArray(int n=0) {
+    FillArray(int n=0) {// if no argument is provided, n will default to 0
         for(int i=0; i<5; i++) {
             arr[i] = n;
         }

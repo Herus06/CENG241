@@ -12,9 +12,8 @@ class One{
 
 int main ( ) {
       One obj;    
-      obj.x = 5 ;   
-      obj.print( ) ;  // What will happen?
-
-      return 0;
+      obj.x = 5 ;   //we can access x because it is public, but we cannot access print() because it is private.
+      //obj.print( ) ;  // What will happen? //It will not work.
+      cout << obj.x << endl;
 
     }			
